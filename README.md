@@ -3,12 +3,9 @@
 *The app is in an early stage of development*
 
 Backend of Proximity; a mobile app that lets you connect with people around you.
-
 Frontend available [here](https://github.com/WaverBin/proximity-frontend)
 
-Continuously developed environment available [here](http://proximityfrontend-waverbin.rhcloud.com)
-
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/WaverBin/proximity-backend/master/screenshot.png)
 
 #
 #
