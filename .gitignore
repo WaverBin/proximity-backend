@@ -23,3 +23,8 @@ Icon
 .nodemonignore
 npm-debug.log
 node_modules/
+
+# --------------------
+# Photoshop Files
+# --------------------
+*.psd
