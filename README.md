@@ -1,7 +1,10 @@
 # proximity-backend
-Backend of Proximity; a mobile app that lets you connect with people around you.
 
 *The app is in an early stage of development*
+
+Backend of Proximity; a mobile app that lets you connect with people around you.
+
+Frontend available [here](https://github.com/WaverBin/proximity-frontend)
 
 Continuously developed environment available [here](http://proximityfrontend-waverbin.rhcloud.com)
 
@@ -28,5 +31,5 @@ This project is developed using
 * [Underscore.js](http://underscorejs.org/)
 
 #### Contributors
-* [Martin Rancourt, computer science student @ Université de Sherbrooke](https://github.com/vonziper)
-* [Simon Lacoursière, computer science student @ Université de Sherbrooke](https://github.com/lacoursieresimon)
+* [Martin Rancourt](https://github.com/vonziper), computer science student @ Université de Sherbrooke
+* [Simon Lacoursière](https://github.com/lacoursieresimon), computer science student @ Université de Sherbrooke
